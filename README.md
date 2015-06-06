@@ -1,2 +1,1 @@
-# gdi-intro-ios-students
-Class Slides for Students
+Class Slides for Intro to iOS Programming
